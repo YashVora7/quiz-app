@@ -17,6 +17,13 @@ This is the backend for the Quiz App. It provides API endpoints to fetch all qui
 
 ## API Endpoints:
 
+### User Routes:
+
+| Method | Endpoint                         | Description                        |
+|--------|----------------------------------|------------------------------------|
+| **POST**    | `/user/login`                    | Login User                      |
+| **POST**     | `/user/signup`                    | Register User                  |
+
 ### Quiz Routes:
 
 | Method | Endpoint                         | Description                        |
